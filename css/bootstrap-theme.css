@@ -76,7 +76,7 @@ fieldset[disabled] .btn-danger {
 .btn-default:hover,
 .btn-default:focus {
   background-color: #e0e0e0;
-  background-position: 0 -15px;
+  background-position: 0 -16px;
 }
 .btn-default:active,
 .btn-default.active {
@@ -117,7 +117,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:hover,
 .btn-primary:focus {
   background-color: #265a88;
-  background-position: 0 -15px;
+  background-position: 0 -16px;
 }
 .btn-primary:active,
 .btn-primary.active {
